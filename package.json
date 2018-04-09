@@ -1,0 +1,11 @@
+{
+  "name": "totalJS-tutorial",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "babel-node debug.js"
+  },
+  "dependencies": {
+    "total.js": "^2.9.4",
+    "babel-cli": "^6.26.0"
+  }
+}
