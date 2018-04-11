@@ -5,7 +5,7 @@
     "dev": "babel-node debug.js"
   },
   "dependencies": {
-    "total.js": "^2.9.4",
-    "babel-cli": "^6.26.0"
+    "babel-cli": "^6.26.0",
+    "total.js": "^2.9.4"
   }
 }
