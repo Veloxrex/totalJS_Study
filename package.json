@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "babel-cli": "^6.26.0",
-    "total.js": "^2.9.4"
+    "total.js": "^2.9.4",
+    "dynamoose": "^0.8.7"
   }
 }
